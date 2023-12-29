@@ -19,3 +19,4 @@ basket.remove(2) #remove removes the specified object
 new_list1=basket
 new_list1.clear() #clear removes all the objects of the list
 print(basket)
+print(new_list1)
